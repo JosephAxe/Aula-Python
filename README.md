@@ -25,5 +25,8 @@ Projeto em desenvolvimento, visando o ensino a prática com a linguagem Python.
 - Clique no icone presente na parte superior na pagina do arquivo no GitHub > [![image](https://user-images.githubusercontent.com/95534308/212700199-df1dd3be-0a16-4f94-8adf-6030396d150a.png)](https://colab.research.google.com/github/JosephAxe/Aula-Python/blob/main/Aulas_Python.ipynb) e depois Salve uma Cópia para editar.
 - Faça o download dos arquivos como descrito acima, abra o Colab no link: https://colab.research.google.com/ e faça o upload do arquivo baixado anteriormente.
 
+## Desenvolvedores e Colaboradores
 
+| [<img src="https://avatars.githubusercontent.com/u/95534308?v=4" width=115><br><sub>José Machado</sub>](https://github.com/JosephAxe) |  [<img src="https://avatars.githubusercontent.com/u/122742631?v=4" width=115><br><sub>Larissa Mayer</sub>](https://github.com/LarissaMayer) |
+| :---: | :---: |
 

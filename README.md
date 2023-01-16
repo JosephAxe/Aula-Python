@@ -22,7 +22,7 @@ Projeto em desenvolvimento, visando o ensino a prática com a linguagem Python.
 
 ## 🛠️ Abrir e rodar o projeto
 **Para abrir o projeto:**
-- Clique no icone presente na parte superior na pagina do arquivo no GitHub > ![image](https://user-images.githubusercontent.com/95534308/212700199-df1dd3be-0a16-4f94-8adf-6030396d150a.png)
+- Clique no icone presente na parte superior na pagina do arquivo no GitHub > [![image](https://user-images.githubusercontent.com/95534308/212700199-df1dd3be-0a16-4f94-8adf-6030396d150a.png)](https://colab.research.google.com/github/JosephAxe/Aula-Python/blob/main/Aulas_Python.ipynb)
 - Faça o download dos arquivos como descrito acima, abra o Colab no link: https://colab.research.google.com/ e faça o upload do arquivo baixado anteriormente.
 
 

@@ -24,4 +24,3 @@ Projeto em desenvolvimento, visando o ensino a prática com a linguagem Python.
 ## Desenvolvedores e Colaboradores
 
 | [<img src="https://avatars.githubusercontent.com/u/95534308?v=4" width=115><br><sub>José Machado</sub>](https://github.com/JosephAxe) 
-
